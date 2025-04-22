@@ -43,3 +43,18 @@ Este projeto foi desenvolvido como parte de um **desafio técnico** para uma vag
 
 ```bash
 git clone https://github.com/diegopauloos/bratso-site.git
+
+
+👨‍💻 Desenvolvedor
+Diego Paulo
+📧 contato: companydpss@gmail.com
+📍 Salvador - BA
+
+
+
+---
+
+Se quiser, posso **gerar o arquivo e te mandar pronto pra colar na pasta do projeto**, ou até te ajudar a subir ele direto no GitHub. Quer também um `footer` estilizado com Tailwind ou CSS?
+
+Tô contigo nessa até o "merge"! 💪
+
